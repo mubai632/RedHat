@@ -13,3 +13,5 @@
 [6. RHCSA-Linux vim编辑器高级特性](./RHCSA/6.%20RHCSA-Linux%20vim编辑器高级特性/6.%20RHCSA-Linux%20vim编辑器高级特性.md "RHCSA-Linux vim编辑器高级特性")
 
 [7. RHCSA-Linux 文本处理工具](./RHCSA/7.%20RHCSA-Linux%20文本处理工具/7.%20RHCSA-Linux%20文本处理工具.md "RHCSA-Linux 文本处理工具")
+
+[8. RHCSA-Linux bash shell 理解](./RHCSA/8.%20RHCSA-Linux%20bash%20shell%20理解/8.%20RHCSA-Linux%20bash%20shell%20理解.md "RHCSA-Linux bash shell 理解")
