@@ -19,3 +19,8 @@
 [9. RHCSA-Linux 系统的进程管理](./RHCSA/9.%20RHCSA-Linux%20系统的进程管理/9.%20RHCSA-Linux%20系统的进程管理.md "RHCSA-Linux 系统的进程管理")
 
 [10. RHCSA-Linux 网络基础和网络服务端口](./RHCSA/10.%20RHCSA-Linux%20网络基础和网络服务端口/10.%20RHCSA-Linux%20网络基础和网络服务端口.md "RHCSA-Linux 网络基础和网络服务端口")
+
+[11. RHCSA-Linux shell脚本实战](./RHCSA/11.%20RHCSA-Linux%20shell脚本实战/11.%20RHCSA-Linux%20shell脚本实战.md "RHCSA-Linux shell脚本实战")
+
+[12. RHCSA-Linux 计划任务](./RHCSA/12.%20RHCSA-Linux%20计划任务/12.%20RHCSA-Linux%20计划任务.md "RHCSA-Linux 计划任务")
+
