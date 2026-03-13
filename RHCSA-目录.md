@@ -24,3 +24,4 @@
 
 [12. RHCSA-Linux 计划任务](./RHCSA/12.%20RHCSA-Linux%20计划任务/12.%20RHCSA-Linux%20计划任务.md "RHCSA-Linux 计划任务")
 
+[13. RHCSA-Linux 文件查找工具](./RHCSA/13.%20RHCSA-Linux%20文件查找工具/13.%20RHCSA-Linux%20文件查找工具.md "RHCSA-Linux 文件查找工具")
