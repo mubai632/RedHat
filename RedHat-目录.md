@@ -16,7 +16,7 @@
 
 [08. RHCSA-Linux bash shell 理解](08.%20RHCSA-Linux%20bash%20shell%20理解.md "RHCSA-Linux bash shell 理解")
 
-[9. RHCSA-Linux 系统的进程管理](./RHCSA/9.%20RHCSA-Linux%20系统的进程管理/9.%20RHCSA-Linux%20系统的进程管理.md "RHCSA-Linux 系统的进程管理")
+[09. RHCSA-Linux 系统的进程管理](09.%20RHCSA-Linux%20系统的进程管理.md "RHCSA-Linux 系统的进程管理")
 
 [10. RHCSA-Linux 网络基础和网络服务端口](./RHCSA/10.%20RHCSA-Linux%20网络基础和网络服务端口/10.%20RHCSA-Linux%20网络基础和网络服务端口.md "RHCSA-Linux 网络基础和网络服务端口")
 
