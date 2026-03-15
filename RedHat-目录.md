@@ -8,7 +8,7 @@
 
 [04. RHCSA-Linux用户和权限管理](04.%20RHCSA-Linux用户和权限管理.md "RHCSA-Linux用户和权限管理")
 
-[5. RHCSA-Linux IO重定向和管道符](./RHCSA/5.%20RHCSA-Linux%20IO重定向和管道符/5.%20RHCSA-Linux%20IO重定向和管道符.md "RHCSA-Linux IO重定向和管道符")
+[05. RHCSA-Linux IO重定向和管道符](05.%20RHCSA-Linux%20IO重定向和管道符.md "RHCSA-Linux IO重定向和管道符")
 
 [6. RHCSA-Linux vim编辑器高级特性](./RHCSA/6.%20RHCSA-Linux%20vim编辑器高级特性/6.%20RHCSA-Linux%20vim编辑器高级特性.md "RHCSA-Linux vim编辑器高级特性")
 
