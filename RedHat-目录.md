@@ -6,7 +6,7 @@
 
 [03. RHCSA-Linux文件系统结构和文件管理命令](03.%20RHCSA-Linux文件系统结构和文件管理命令.md "RHCSA-Linux文件系统结构和文件管理命令")
 
-[4. RHCSA-Linux用户和权限管理](./RHCSA/4.%20RHCSA-Linux用户和权限管理/4.%20RHCSA-Linux用户和权限管理.md "RHCSA-Linux用户和权限管理")
+[04. RHCSA-Linux用户和权限管理](04.%20RHCSA-Linux用户和权限管理.md "RHCSA-Linux用户和权限管理")
 
 [5. RHCSA-Linux IO重定向和管道符](./RHCSA/5.%20RHCSA-Linux%20IO重定向和管道符/5.%20RHCSA-Linux%20IO重定向和管道符.md "RHCSA-Linux IO重定向和管道符")
 
