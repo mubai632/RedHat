@@ -4,7 +4,7 @@
 
 [02. RHCSA-Linux基本命令](02.%20RHCSA-Linux基本命令.md "RHCSA-Linux基本命令")
 
-[3. RHCSA-Linux文件系统结构和文件管理命令](./RHCSA/3.%20RHCSA-Linux文件系统结构和文件管理命令/3.%20RHCSA-Linux文件系统结构和文件管理命令.md "RHCSA-Linux文件系统结构和文件管理命令")
+[03. RHCSA-Linux文件系统结构和文件管理命令](03.%20RHCSA-Linux文件系统结构和文件管理命令.md "RHCSA-Linux文件系统结构和文件管理命令")
 
 [4. RHCSA-Linux用户和权限管理](./RHCSA/4.%20RHCSA-Linux用户和权限管理/4.%20RHCSA-Linux用户和权限管理.md "RHCSA-Linux用户和权限管理")
 
