@@ -1,6 +1,6 @@
 # RHCSA
 
-[1. RHCSA-Linux和虚拟化](./RHCSA/1.%20RHCSA-Linux和虚拟化/1.%20RHCSA-Linux和虚拟化.md "RHCSA-Linux和虚拟化")
+[01. RHCSA-Linux和虚拟化](01.%20RHCSA-Linux和虚拟化.md "RHCSA-Linux和虚拟化")
 
 [2. RHCSA-Linux基本命令](./RHCSA/2.%20RHCSA-Linux基本命令/2.%20RHCSA-Linux基本命令.md "RHCSA-Linux基本命令")
 
