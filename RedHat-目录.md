@@ -10,7 +10,7 @@
 
 [05. RHCSA-Linux IO重定向和管道符](05.%20RHCSA-Linux%20IO重定向和管道符.md "RHCSA-Linux IO重定向和管道符")
 
-[6. RHCSA-Linux vim编辑器高级特性](./RHCSA/6.%20RHCSA-Linux%20vim编辑器高级特性/6.%20RHCSA-Linux%20vim编辑器高级特性.md "RHCSA-Linux vim编辑器高级特性")
+[06. RHCSA-Linux vim编辑器高级特性](06.%20RHCSA-Linux%20vim编辑器高级特性.md "RHCSA-Linux vim编辑器高级特性")
 
 [7. RHCSA-Linux 文本处理工具](./RHCSA/7.%20RHCSA-Linux%20文本处理工具/7.%20RHCSA-Linux%20文本处理工具.md "RHCSA-Linux 文本处理工具")
 
