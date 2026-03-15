@@ -28,4 +28,11 @@
 
 [14. RHCSA-Linux 网络客户端](./RHCSA/14.%20RHCSA-Linux%20网络客户端/14.%20RHCSA-Linux%20网络客户端.md "RHCSA-Linux 网络客户端")
 
+[15. RHCSA-Linux 高级权限管理](./RHCSA/15.%20RHCSA-Linux%20高级权限管理/15.%20RHCSA-Linux%20高级权限管理.md "RHCSA-Linux 高级权限管理")
+
+
+
+
+
+
 
