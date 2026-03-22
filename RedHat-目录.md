@@ -32,6 +32,9 @@
 
 [16. RHCSA-Linux 深入理解文件系统](./RHCSA/16.%20RHCSA-Linux%20深入理解文件系统/16.%20RHCSA-Linux%20深入理解文件系统.md "RHCSA-Linux 深入理解文件系统")
 
+[17. RHCSA-Linux 软件包管理](./RHCSA/17.%20RHCSA-Linux%20软件包管理/17.%20RHCSA-Linux%20软件包管理.md "RHCSA-Linux 软件包管理")
+
+
 
 
 
