@@ -34,7 +34,7 @@
 
 [17. RHCSA-Linux 软件包管理](./RHCSA/17.%20RHCSA-Linux%20软件包管理/17.%20RHCSA-Linux%20软件包管理.md "RHCSA-Linux 软件包管理")
 
-
+[18. RHCSA-Linux 服务管理和系统启动流程](./RHCSA/18.%20RHCSA-Linux%20服务管理和系统启动流程/18.%20RHCSA-Linux%20服务管理和系统启动流程.md "RHCSA-Linux 服务管理和系统启动流程")
 
 
 
