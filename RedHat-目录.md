@@ -36,6 +36,7 @@
 
 [18. RHCSA-Linux 服务管理和系统启动流程](./RHCSA/18.%20RHCSA-Linux%20服务管理和系统启动流程/18.%20RHCSA-Linux%20服务管理和系统启动流程.md "RHCSA-Linux 服务管理和系统启动流程")
 
+[19. RHCSA-Linux 系统日志服务和时间管理服务](./RHCSA/19.%20RHCSA-Linux%20系统日志服务和时间管理服务/19.%20RHCSA-Linux%20系统日志服务和时间管理服务.md "RHCSA-Linux 系统日志服务和时间管理服务")
 
 
 
