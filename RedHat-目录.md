@@ -38,5 +38,5 @@
 
 [19. RHCSA-Linux 系统日志服务和时间管理服务](./RHCSA/19.%20RHCSA-Linux%20系统日志服务和时间管理服务/19.%20RHCSA-Linux%20系统日志服务和时间管理服务.md "RHCSA-Linux 系统日志服务和时间管理服务")
 
-
+[20. RHCSA-Linux 内核和内核参数](./RHCSA/20.%20RHCSA-Linux%20内核和内核参数/20.%20RHCSA-Linux%20内核和内核参数.md "RHCSA-Linux 内核和内核参数")
 
