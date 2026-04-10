@@ -40,3 +40,6 @@
 
 [20. RHCSA-Linux 内核和内核参数](./RHCSA/20.%20RHCSA-Linux%20内核和内核参数/20.%20RHCSA-Linux%20内核和内核参数.md "RHCSA-Linux 内核和内核参数")
 
+[21. RHCSA-Linux 磁盘管理](./RHCSA/21.%20RHCSA-Linux%20磁盘管理/21.%20RHCSA-Linux%20磁盘管理.md "RHCSA-Linux 磁盘管理")
+
+
