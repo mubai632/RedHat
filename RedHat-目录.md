@@ -42,4 +42,6 @@
 
 [21. RHCSA-Linux 磁盘管理](./RHCSA/21.%20RHCSA-Linux%20磁盘管理/21.%20RHCSA-Linux%20磁盘管理.md "RHCSA-Linux 磁盘管理")
 
+[22. RHCSA-Linux LVM 逻辑卷管理](./RHCSA/22.%20RHCSA-Linux%20LVM%20逻辑卷管理/22.%20RHCSA-Linux%20LVM%20逻辑卷管理.md "RHCSA-Linux LVM 逻辑卷管理")
+
 
