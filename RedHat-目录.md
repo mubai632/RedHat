@@ -22,7 +22,7 @@
 [20. RHCSA-Linux 内核和内核参数](./RHCSA/20.%20RHCSA-Linux%20内核和内核参数/20.%20RHCSA-Linux%20内核和内核参数.md "RHCSA-Linux 内核和内核参数")  
 [21. RHCSA-Linux 磁盘管理](./RHCSA/21.%20RHCSA-Linux%20磁盘管理/21.%20RHCSA-Linux%20磁盘管理.md "RHCSA-Linux 磁盘管理")  
 [22. RHCSA-Linux LVM 逻辑卷管理](./RHCSA/22.%20RHCSA-Linux%20LVM%20逻辑卷管理/22.%20RHCSA-Linux%20LVM%20逻辑卷管理.md "RHCSA-Linux LVM 逻辑卷管理")  
-23.  
+[23. RHCSA-Linux 存储 NFS共享 autofs按需挂载](./RHCSA/23.%20RHCSA-Linux%20存储%20NFS共享%20autofs按需挂载/23.%20RHCSA-Linux%20存储%20NFS共享%20autofs按需挂载.md "RHCSA-Linux 存储 NFS共享 autofs按需挂载")  
 [24. RHCSA-Linux SELinux管理Linux系统](./RHCSA/24.%20RHCSA-Linux%20SELinux管理Linux系统/24.%20RHCSA-Linux%20SELinux管理Linux系统.md "RHCSA-Linux SELinux管理Linux系统")  
 [25. RHCSA-Linux Firewalld 防火墙](./RHCSA/25.%20RHCSA-Linux%20Firewalld%20防火墙/25.%20RHCSA-Linux%20Firewalld%20防火墙.md "RHCSA-Linux Firewalld 防火墙")  
 [26. RHCSA-Linux Podman 容器](./RHCSA/26.%20RHCSA-Linux%20Podman%20容器/26.%20RHCSA-Linux%20Podman%20容器.md "RHCSA-Linux Podman 容器")  
