@@ -26,5 +26,3 @@
 [24. RHCSA-Linux SELinux管理Linux系统](./RHCSA/24.%20RHCSA-Linux%20SELinux管理Linux系统/24.%20RHCSA-Linux%20SELinux管理Linux系统.md "RHCSA-Linux SELinux管理Linux系统")  
 [25. RHCSA-Linux Firewalld 防火墙](./RHCSA/25.%20RHCSA-Linux%20Firewalld%20防火墙/25.%20RHCSA-Linux%20Firewalld%20防火墙.md "RHCSA-Linux Firewalld 防火墙")  
 [26. RHCSA-Linux Podman 容器](./RHCSA/26.%20RHCSA-Linux%20Podman%20容器/26.%20RHCSA-Linux%20Podman%20容器.md "RHCSA-Linux Podman 容器")  
-
-
