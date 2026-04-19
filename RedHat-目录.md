@@ -1,5 +1,4 @@
 # RHCSA
-
 [01. RHCSA-Linux和虚拟化](./RHCSA/01.%20RHCSA-Linux和虚拟化/01.%20RHCSA-Linux和虚拟化.md "RHCSA-Linux和虚拟化")  
 [02. RHCSA-Linux基本命令](./RHCSA/02.%20RHCSA-Linux基本命令/02.%20RHCSA-Linux基本命令.md "RHCSA-Linux基本命令")  
 [03. RHCSA-Linux文件系统结构和文件管理命令](./RHCSA/03.%20RHCSA-Linux文件系统结构和文件管理命令/03.%20RHCSA-Linux文件系统结构和文件管理命令.md "RHCSA-Linux文件系统结构和文件管理命令")  
@@ -26,3 +25,9 @@
 [24. RHCSA-Linux SELinux管理Linux系统](./RHCSA/24.%20RHCSA-Linux%20SELinux管理Linux系统/24.%20RHCSA-Linux%20SELinux管理Linux系统.md "RHCSA-Linux SELinux管理Linux系统")  
 [25. RHCSA-Linux Firewalld 防火墙](./RHCSA/25.%20RHCSA-Linux%20Firewalld%20防火墙/25.%20RHCSA-Linux%20Firewalld%20防火墙.md "RHCSA-Linux Firewalld 防火墙")  
 [26. RHCSA-Linux Podman 容器](./RHCSA/26.%20RHCSA-Linux%20Podman%20容器/26.%20RHCSA-Linux%20Podman%20容器.md "RHCSA-Linux Podman 容器")  
+
+# RHCE
+[01. RHCE-Linux 认识和安装ansible](./RHCE/01.%20RHCE-Linux%20认识和安装ansible/01.%20RHCE-Linux%20认识和安装ansible.md "RHCE-Linux 认识和安装ansible")  
+[02. RHCE-Linux ansible配置和使用](./RHCE/02.%20RHCE-Linux%20ansible配置和使用/02.%20RHCE-Linux%20ansible配置和使用.md "RHCE-Linux ansible配置和使用")  
+[03. RHCE-Linux ad-hoc和常用模块](./RHCE/03.%20RHCE-Linux%20ad-hoc和常用模块/03.%20RHCE-Linux%20ad-hoc和常用模块.md "RHCE-Linux ad-hoc和常用模块")  
+[04. RHCE-Linux ansible的playbook](./RHCE/04.%20RHCE-Linux%20ansible的playbook/04.%20RHCE-Linux%20ansible的playbook.md "RHCE-Linux ansible的playbook")  
