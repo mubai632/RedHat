@@ -35,7 +35,7 @@
 [06. RHCE-Linux ansible的条件判断](./RHCE/06.%20RHCE-Linux%20ansible的条件判断/06.%20RHCE-Linux%20ansible的条件判断.md "RHCE-Linux ansible的条件判断")  
 [07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
 [08. RHCE-Linux ansible文件内容修改模块](./RHCE/08.%20RHCE-Linux%20ansible文件内容修改模块/08.%20RHCE-Linux%20ansible文件内容修改模块.md "RHCE-Linux ansible文件内容修改模块")  
-[07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
+[09. RHCE-Linux jinja2模板](./RHCE/09.%20RHCE-Linux%20jinja2模板/09.%20RHCE-Linux%20jinja2模板.md "RHCE-Linux jinja2模板")  
 [07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
 [07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
 [07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
