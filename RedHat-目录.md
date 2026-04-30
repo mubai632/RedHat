@@ -39,4 +39,4 @@
 [10. RHCE-Linux ansible的角色管理](./RHCE/10.%20RHCE-Linux%20ansible的角色管理/10.%20RHCE-Linux%20ansible的角色管理.md "RHCE-Linux ansible的角色管理")  
 [11. RHCE-Linux ansible-vault加密](./RHCE/11.%20RHCE-Linux%20ansible-vault加密/11.%20RHCE-Linux%20ansible-vault加密.md "RHCE-Linux ansible-vault加密")  
 [12. RHCE-Linux collection集合](./RHCE/12.%20RHCE-Linux%20collection集合/12.%20RHCE-Linux%20collection集合.md "RHCE-Linux collection集合")  
-[07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
+[13. RHCE-Linux ansible-navigator导航器](./RHCE/13.%20RHCE-Linux%20ansible-navigator导航器/13.%20RHCE-Linux%20ansible-navigator导航器.md "RHCE-Linux ansible-navigator导航器")  
