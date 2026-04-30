@@ -37,6 +37,6 @@
 [08. RHCE-Linux ansible文件内容修改模块](./RHCE/08.%20RHCE-Linux%20ansible文件内容修改模块/08.%20RHCE-Linux%20ansible文件内容修改模块.md "RHCE-Linux ansible文件内容修改模块")  
 [09. RHCE-Linux jinja2模板](./RHCE/09.%20RHCE-Linux%20jinja2模板/09.%20RHCE-Linux%20jinja2模板.md "RHCE-Linux jinja2模板")  
 [10. RHCE-Linux ansible的角色管理](./RHCE/10.%20RHCE-Linux%20ansible的角色管理/10.%20RHCE-Linux%20ansible的角色管理.md "RHCE-Linux ansible的角色管理")  
-[07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
+[11. RHCE-Linux ansible-vault加密](./RHCE/11.%20RHCE-Linux%20ansible-vault加密/11.%20RHCE-Linux%20ansible-vault加密.md "RHCE-Linux ansible-vault加密")  
 [07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
 [07. RHCE-Linux ansible的循环语句](./RHCE/07.%20RHCE-Linux%20ansible的循环语句/07.%20RHCE-Linux%20ansible的循环语句.md "RHCE-Linux ansible的循环语句")  
